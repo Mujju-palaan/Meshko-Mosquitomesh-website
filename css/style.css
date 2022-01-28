@@ -1,0 +1,23 @@
+.bgblue{
+    background-color: rgb(81, 81, 255);
+}
+
+.center{
+    text-align: center;
+}
+
+.right{
+    text-align: right;
+}
+
+.pr120{
+    padding-right: 120px;
+}
+
+.pr50{
+    padding-right: 50px;
+}
+
+.blackfont{
+    color: black;
+}
