@@ -1,11 +1,22 @@
-.bgblue{
-    background-color: rgb(81, 81, 255);
+.bg{
+    background-color: #EFF5FF;
+}
+.pb10{
+    padding-bottom: 10px;
 }
 
-.center{
+.center {
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 3px;
+    margin-bottom: 3px;
     text-align: center;
+    display: flex;
+    justify-content: center;
+  }
+.width30{
+    width: 30%;
 }
-
 .right{
     text-align: right;
 }
@@ -20,4 +31,68 @@
 
 .blackfont{
     color: black;
+}
+
+.header{
+    color: white;
+    background-color: rgb(61, 43, 226);
+}
+
+.iconcolour{
+    color: white;
+    
+}
+.phone{
+    color: white;
+    font-size: large;
+}
+.pt20{
+    padding-top: 20px;
+}
+.pr20{
+    padding-right: 10px;
+}
+.pl30{
+    padding-left: 30px;
+}
+
+.pb50{
+    padding-bottom: 50px;
+}
+.pl10{
+    padding-left: 10px;
+}
+.bg-footer{
+    background-color: gray;
+}
+.footer {
+    color: white;
+    text-decoration: none;
+  }
+  
+.footer  a:hover {
+    color: black;
+  }
+
+.boldtext{
+    font-size: bold;
+}
+
+.pt50{
+    padding-top: 50px;
+}
+.mr{
+    margin-right: 20px;
+}
+.pb20{
+    padding-bottom: 20px;
+}
+
+.bolder{
+    font-size: 900;
+    
+}
+
+.br{
+    border-radius: 20px;
 }
