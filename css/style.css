@@ -96,3 +96,6 @@
 .br{
     border-radius: 20px;
 }
+.br100{
+    border-radius: 100%;
+}
